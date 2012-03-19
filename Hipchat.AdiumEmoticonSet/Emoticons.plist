@@ -520,6 +520,7 @@
         <key>Equivalents</key>
         <array>
           <string>(fu)</string>
+          <string>(rageguy)</string>
         </array>
         <key>Name</key>
         <string>(fu)</string>
@@ -874,15 +875,6 @@
         </array>
         <key>Name</key>
         <string>(pumpkin)</string>
-      </dict>
-        <key>rageguy.png</key>
-      <dict>
-        <key>Equivalents</key>
-        <array>
-          <string>(rageguy)</string>
-        </array>
-        <key>Name</key>
-        <string>(rageguy)</string>
       </dict>
         <key>rebeccablack.png</key>
       <dict>
